@@ -1,6 +1,3 @@
-give me privacy policy of mobile app named "Gradclubs" of company "Gradclubs Education Pvt Ltd" which is a study abroad agency in India. Features are that of a social media app like facebook where people chat and we provide study abroad counselling services. Draft it in a way that we are not responsible for any data, all data is public and we are not liable for any information and offers shared as we are just mediators and just help people along with this If the user has not paid anything, we are not liable for any help or info shared. very detailed.
-Here is a draft of the privacy policy for the "Gradclubs" mobile app:
-
 Privacy Policy
 
 Gradclubs Education Pvt Ltd ("Gradclubs", "we", "us", or "our") is a study abroad agency located in India. We operate the "Gradclubs" mobile application (the "App") which provides a social media platform for users to connect, chat, and receive study abroad counseling services.
